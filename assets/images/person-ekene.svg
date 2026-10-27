@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 620" role="img" aria-label="Illustrated team avatar representing Ekene, not a photograph">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#093a2d"/><stop offset="1" stop-color="#080d1b"/></linearGradient>
+<linearGradient id="pane" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#263c49"/><stop offset="1" stop-color="#121d29"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#75f8b4" stop-opacity=".29"/><stop offset="1" stop-color="#75f8b4" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a9c4cb" stroke-opacity=".09"/></pattern>
+<filter id="shadow" x="-35%" y="-35%" width="170%" height="170%"><feDropShadow dx="0" dy="22" stdDeviation="21" flood-color="#000" flood-opacity=".45"/></filter></defs>
+<rect width="1100" height="620" fill="url(#bg)"/><rect width="1100" height="620" fill="url(#grid)"/><circle cx="845" cy="280" r="390" fill="url(#halo)"/>
+<circle cx="560" cy="271" r="236" fill="#75f8b4" opacity=".09"/>
+<path d="M 160 620 Q 186 432 375 401 L 456 369 665 369 757 402 Q 944 429 964 620Z" fill="#2e5667" stroke="#75f8b4" stroke-opacity=".27" stroke-width="5"/>
+<path d="M 428 391 l 114 129 114-129" fill="none" stroke="#75f8b4" stroke-opacity=".3" stroke-width="8"/>
+<rect x="513" y="359" width="97" height="105" rx="45" fill="#966d5e"/>
+<ellipse cx="560" cy="277" rx="146" ry="159" fill="#b78b76"/>
+<path d="M413 275 C390 109 495 98 555 102 C 702 80 721 192 706 269 Q660 212 654 189 C566 232 506 203 435 222Z" fill="#111b29"/>
+<path d="M457 286h47m117 0h47" stroke="#15202c" stroke-width="8" stroke-linecap="round"/>
+<path d="M533 335 Q560 348 589 335" fill="none" stroke="#703f3d" stroke-width="6" stroke-linecap="round"/>
+<path d="M218 125h140m-140 27h95m524 307h90m-40 24h124" stroke="#75f8b4" stroke-opacity=".45" stroke-width="7" stroke-linecap="round"/>
+<circle cx="235" cy="414" r="44" fill="none" stroke="#75f8b4" stroke-opacity=".7" stroke-width="3"/>
+<path d="M215 415 l17 18 32-43" fill="none" stroke="#75f8b4" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="744" y="93" width="210" height="61" rx="12" fill="#0b1826" stroke="#75f8b4" stroke-opacity=".5"/>
+<text x="778" y="132" fill="#75f8b4" font-family="monospace" font-size="24" font-weight="700" letter-spacing="1">NODE // EE</text></svg>
